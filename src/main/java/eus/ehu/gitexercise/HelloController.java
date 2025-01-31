@@ -11,5 +11,6 @@ public class HelloController {
     protected void onHelloButtonClick() {
         welcomeText.setText("Welcome to JavaFX Application!");
         System.out.println("hellooooo uxue is was and will be here ! sorry forgot message");
+        System.out.println("Have a nice day, (Mateorena Zozaia, Eki)");
     }
 }
